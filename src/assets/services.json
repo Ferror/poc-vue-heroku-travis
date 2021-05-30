@@ -1,0 +1,5 @@
+{
+    "services": [
+        "https://poc-symfony-heroku-travis.herokuapp.com/"
+    ]
+}
