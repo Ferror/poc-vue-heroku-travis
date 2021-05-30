@@ -1,4 +1,7 @@
 <template>
+    <div>
+        <h1>Services</h1>
+    </div>
 </template>
 
 <script>
@@ -8,12 +11,7 @@ HealthClient.getStatus();
 
 export default {
     name: 'Services',
-    props: {},
-    data: function () {
-        return {
-            'services': 'asd'
-        }
-    }
+    props: {}
 }
 </script>
 
